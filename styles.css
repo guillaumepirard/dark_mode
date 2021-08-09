@@ -1,0 +1,26 @@
+*{
+    font-family: Poppins;
+    transition: background 0.3s ease-in-out;
+}
+
+.body {
+    background-color: #333;
+    color: rgb(235, 235, 235);
+}
+
+.container {
+    width: 800px;
+    height: fit-content;
+    text-align: center;
+    margin: 20% auto;
+}
+
+#button {
+    padding: 0.5rem 1.8rem;
+    color: white;
+    background-color: rebeccapurple;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1.5rem;
+}
